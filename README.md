@@ -2,10 +2,6 @@
 
 Made with Python and Javascript
 
-Watch Video Explanation here:
-https://youtu.be/CssAKqONpaM
-
-
 
 
 This Project includes infomration about soccer one of my favorite sports and I love to play it in my free time,
