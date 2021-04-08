@@ -1,6 +1,6 @@
 # Simple HTML Project
 
-Made with Python and Javascript
+Made with HTML and CSS
 
 
 
