@@ -1,6 +1,6 @@
-# Project 0
+# Simple HTML Project
 
-Web Programming with Python and JavaScript
+Made with Python and Javascript
 
 Watch Video Explanation here:
 https://youtu.be/CssAKqONpaM
@@ -8,6 +8,6 @@ https://youtu.be/CssAKqONpaM
 
 
 
-My project0 is about soccer one of my favorite sports and I love to play it in my free time,
+This Project includes infomration about soccer one of my favorite sports and I love to play it in my free time,
 Project contains the main file "soccer_info.html" and all the other files are linked into this one. 
 Also there is one scss file converted by Sass to css. 
